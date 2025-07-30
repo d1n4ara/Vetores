@@ -1,4 +1,4 @@
-# VETORES🌈
+# Vetores🌈
 
 Esse repositório  e destinado para os exercícios de vetores.
 Abaixo estão os enunciados de todos os exercícios.
